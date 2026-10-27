@@ -1,0 +1,53 @@
+﻿
+> class-deadline-hub@0.1.0 build
+> next build
+
+▲ Next.js 16.4.3 (Turbopack)
+✓ Running next.config.ts took 91ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 4.9s
+  Running TypeScript ...
+  Finished TypeScript in 8.4s ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/30) ...
+  Generating static pages using 3 workers (7/30) 
+  Generating static pages using 3 workers (14/30) 
+  Generating static pages using 3 workers (22/30) 
+✓ Generating static pages using 3 workers (30/30) in 6.2s
+  Finalizing page optimization ...
+
+Route (app)                            Revalidate  Expire
+┌ ○ /                                         30d      1y
+├ ○ /_not-found
+├ ○ /403
+├ ƒ /admin
+├ ƒ /api/auth/[...nextauth]
+├ ƒ /dashboard
+├ ○ /deadlines                                 1m      1h
+├   /deadlines/[id]
+│ ├ ◐ /deadlines/[id]
+│ ├ ○ /deadlines/network-subnetting            1m      1h
+│ ├ ○ /deadlines/dsa-sorting-analysis          1m      1h
+│ └ ◐ [+10 more paths]
+├ ƒ /deadlines/[id]/opengraph
+├ ◐ /login
+├ ○ /opengraph-image
+├ ○ /robots.txt
+├ ○ /sitemap.xml                               1m      1h
+└   /subjects/[slug]
+  ├ ◐ /subjects/[slug]
+  ├ ○ /subjects/lap-trinh-web                 30d      1y
+  ├ ○ /subjects/cau-truc-du-lieu              30d      1y
+  └ ◐ [+2 more paths]
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)             prerendered as static content
+◐  (Partial Prerender)  prerendered as static HTML with dynamic server-streamed content
+ƒ  (Dynamic)            server-rendered on demand
+
+

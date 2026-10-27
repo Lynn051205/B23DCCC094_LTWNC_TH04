@@ -1,0 +1,74 @@
+[
+  {
+    "userId": "demo-student",
+    "deadlineId": "web-project-proposal",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "web-html-css-lab",
+    "completed": true,
+    "completedAt": "2026-10-20T15:30:00+07:00"
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "web-midterm-demo",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "dsa-sorting-analysis",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "dsa-tree-practice",
+    "completed": true,
+    "completedAt": "2026-10-22T11:10:00+07:00"
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "dsa-graph-project",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "db-erd-assignment",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "db-sql-queries",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "db-normalization-report",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "network-subnetting",
+    "completed": true,
+    "completedAt": "2026-10-24T09:00:00+07:00"
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "network-wireshark-lab",
+    "completed": false,
+    "completedAt": null
+  },
+  {
+    "userId": "demo-student",
+    "deadlineId": "network-protocol-presentation",
+    "completed": false,
+    "completedAt": null
+  }
+]

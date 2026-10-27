@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sub-web",
+    "slug": "lap-trinh-web",
+    "name": "Lập trình Web",
+    "description": "Xây dựng ứng dụng web hiện đại với HTML, CSS, JavaScript và các framework phổ biến."
+  },
+  {
+    "id": "sub-dsa",
+    "slug": "cau-truc-du-lieu",
+    "name": "Cấu trúc dữ liệu và Giải thuật",
+    "description": "Rèn luyện tư duy thuật toán, lựa chọn cấu trúc dữ liệu và phân tích độ phức tạp."
+  },
+  {
+    "id": "sub-db",
+    "slug": "co-so-du-lieu",
+    "name": "Cơ sở dữ liệu",
+    "description": "Thiết kế mô hình dữ liệu, truy vấn SQL và xây dựng hệ quản trị dữ liệu tin cậy."
+  },
+  {
+    "id": "sub-network",
+    "slug": "mang-may-tinh",
+    "name": "Mạng máy tính",
+    "description": "Tìm hiểu kiến trúc mạng, giao thức truyền thông và các nguyên tắc kết nối an toàn."
+  }
+]

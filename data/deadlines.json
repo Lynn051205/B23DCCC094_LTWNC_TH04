@@ -1,0 +1,122 @@
+[
+  {
+    "id": "web-project-proposal",
+    "subjectId": "sub-web",
+    "title": "Đề cương đồ án website",
+    "description": "Nộp đề cương mô tả vấn đề, đối tượng sử dụng, chức năng chính và kế hoạch thực hiện đồ án.",
+    "dueAt": "2026-11-02T23:59:00+07:00",
+    "submissionType": "PDF",
+    "instructions": "Độ dài 3–5 trang. Đính kèm sơ đồ chức năng và phân công thành viên nếu làm theo nhóm.",
+    "createdAt": "2026-10-01T08:00:00+07:00"
+  },
+  {
+    "id": "web-html-css-lab",
+    "subjectId": "sub-web",
+    "title": "Bài thực hành HTML và CSS",
+    "description": "Hoàn thiện giao diện trang giới thiệu cá nhân theo mẫu đã học trên lớp.",
+    "dueAt": "2026-11-06T23:59:00+07:00",
+    "submissionType": "Link Git",
+    "instructions": "Đảm bảo trang hiển thị tốt trên màn hình điện thoại và có README hướng dẫn chạy.",
+    "createdAt": "2026-10-02T08:00:00+07:00"
+  },
+  {
+    "id": "web-midterm-demo",
+    "subjectId": "sub-web",
+    "title": "Trình bày sản phẩm giữa kỳ",
+    "description": "Trình diễn luồng chính của sản phẩm và giải thích kiến trúc frontend đã lựa chọn.",
+    "dueAt": "2026-11-14T09:00:00+07:00",
+    "submissionType": "Thuyết trình",
+    "instructions": "Thời lượng tối đa 8 phút mỗi nhóm. Chuẩn bị bản demo có dữ liệu mẫu.",
+    "createdAt": "2026-10-03T08:00:00+07:00"
+  },
+  {
+    "id": "dsa-sorting-analysis",
+    "subjectId": "sub-dsa",
+    "title": "Phân tích các thuật toán sắp xếp",
+    "description": "So sánh Quick Sort, Merge Sort và Heap Sort về độ phức tạp và kết quả thực nghiệm.",
+    "dueAt": "2026-10-29T23:59:00+07:00",
+    "submissionType": "PDF và mã nguồn",
+    "instructions": "Chạy thử với ít nhất ba kích thước đầu vào và trình bày kết quả dưới dạng bảng.",
+    "createdAt": "2026-10-04T08:00:00+07:00"
+  },
+  {
+    "id": "dsa-tree-practice",
+    "subjectId": "sub-dsa",
+    "title": "Bài tập cây nhị phân tìm kiếm",
+    "description": "Cài đặt các thao tác thêm, xóa, tìm kiếm và duyệt trên cây nhị phân tìm kiếm.",
+    "dueAt": "2026-11-04T23:59:00+07:00",
+    "submissionType": "Mã nguồn",
+    "instructions": "Nộp mã nguồn có chú thích ngắn và bộ kiểm thử cho các trường hợp biên.",
+    "createdAt": "2026-10-05T08:00:00+07:00"
+  },
+  {
+    "id": "dsa-graph-project",
+    "subjectId": "sub-dsa",
+    "title": "Bài tập đồ thị và đường đi ngắn nhất",
+    "description": "Mô hình hóa một bài toán thực tế thành đồ thị và triển khai thuật toán phù hợp.",
+    "dueAt": "2026-11-12T23:59:00+07:00",
+    "submissionType": "PDF và mã nguồn",
+    "instructions": "Nêu rõ cách biểu diễn đồ thị, phân tích độ phức tạp và minh họa kết quả.",
+    "createdAt": "2026-10-06T08:00:00+07:00"
+  },
+  {
+    "id": "db-erd-assignment",
+    "subjectId": "sub-db",
+    "title": "Thiết kế ERD hệ thống thư viện",
+    "description": "Xây dựng sơ đồ thực thể liên kết cho nghiệp vụ quản lý sách, bạn đọc và mượn trả.",
+    "dueAt": "2026-10-31T23:59:00+07:00",
+    "submissionType": "PDF",
+    "instructions": "Thể hiện khóa chính, khóa ngoại, lực lượng kết hợp và các ràng buộc nghiệp vụ.",
+    "createdAt": "2026-10-07T08:00:00+07:00"
+  },
+  {
+    "id": "db-sql-queries",
+    "subjectId": "sub-db",
+    "title": "Thực hành truy vấn SQL",
+    "description": "Viết truy vấn tổng hợp dữ liệu từ bộ dữ liệu bán hàng được cung cấp.",
+    "dueAt": "2026-11-07T23:59:00+07:00",
+    "submissionType": "Tệp SQL",
+    "instructions": "Mỗi câu truy vấn cần có chú thích yêu cầu tương ứng và chạy được trên PostgreSQL.",
+    "createdAt": "2026-10-08T08:00:00+07:00"
+  },
+  {
+    "id": "db-normalization-report",
+    "subjectId": "sub-db",
+    "title": "Báo cáo chuẩn hóa dữ liệu",
+    "description": "Phân tích phụ thuộc hàm và chuẩn hóa lược đồ đến dạng chuẩn phù hợp.",
+    "dueAt": "2026-11-18T23:59:00+07:00",
+    "submissionType": "PDF",
+    "instructions": "Trình bày các bước chuyển đổi và giải thích vì sao lựa chọn dạng chuẩn cuối.",
+    "createdAt": "2026-10-09T08:00:00+07:00"
+  },
+  {
+    "id": "network-subnetting",
+    "subjectId": "sub-network",
+    "title": "Bài tập chia subnet IPv4",
+    "description": "Thiết kế kế hoạch địa chỉ IP cho các phòng ban theo số lượng thiết bị yêu cầu.",
+    "dueAt": "2026-10-27T23:59:00+07:00",
+    "submissionType": "PDF",
+    "instructions": "Ghi rõ subnet mask, network address, broadcast address và dải host khả dụng.",
+    "createdAt": "2026-10-10T08:00:00+07:00"
+  },
+  {
+    "id": "network-wireshark-lab",
+    "subjectId": "sub-network",
+    "title": "Thực hành phân tích gói tin",
+    "description": "Dùng Wireshark quan sát quá trình phân giải DNS và thiết lập kết nối TCP.",
+    "dueAt": "2026-11-09T23:59:00+07:00",
+    "submissionType": "Báo cáo PDF",
+    "instructions": "Đính kèm ảnh chụp các gói tin tiêu biểu và giải thích các trường header quan trọng.",
+    "createdAt": "2026-10-11T08:00:00+07:00"
+  },
+  {
+    "id": "network-protocol-presentation",
+    "subjectId": "sub-network",
+    "title": "Thuyết trình giao thức ứng dụng",
+    "description": "Giới thiệu một giao thức tầng ứng dụng và minh họa cấu trúc thông điệp.",
+    "dueAt": "2026-11-20T10:00:00+07:00",
+    "submissionType": "Thuyết trình",
+    "instructions": "Mỗi nhóm 2–3 người, thời lượng 10 phút và có ít nhất một ví dụ thực tế.",
+    "createdAt": "2026-10-12T08:00:00+07:00"
+  }
+]
